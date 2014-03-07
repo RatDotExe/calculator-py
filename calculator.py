@@ -1,3 +1,6 @@
+# Calculator Script for Rat
+
+
 import math
 
 fn = raw_input("Whats the first number? ")
